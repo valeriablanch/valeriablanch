@@ -2,8 +2,7 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
 
-<!--
-
+class Dev:
     def __init__(self):
         self.name = "Valéria Blanch"
         self.role = "back-end dev"
@@ -13,6 +12,5 @@
         print("thanks for dropping by")
 
 
-me = dev()
+me = Dev()
 me.say_hi()
-```
