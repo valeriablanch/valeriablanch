@@ -1,19 +1,14 @@
-```python
-#!/usr/bin/python
-# -*- coding: utf-8 -*-
+package introduction;
 
+public class BackendDeveloper {
+	
+	public static void main(String[] args) {
+		
+		// Introducing myself.
+		
+		System.out.println("My name is Valéria Blanch, I'm an aspiring back-end developer.");
+  
+	}
 
-class fullstack:
+}
 
-    def __init__(self):
-        self.name = "Valéria Blanch"
-        self.role = "full-stack dev"
-        self.language_spoken = ["pt_BR", "en_UK"]
-
-    def say_hi(self):
-        print("thanks for dropping by")
-
-
-me = dev()
-me.say_hi()
-```
